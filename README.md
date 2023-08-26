@@ -6,15 +6,16 @@
 3. Update Package Information: sudo apt update4. 4. Step 1
 4. Install Jenkins: sudo apt install jenkins
 5. Access Initial Admin Password: sudo cat /var/lib/jenkins/secrets/initialAdminPassword
-6. Access Jenkins Web Interface: [](http://107.23.208.215:8080)
+6. Access Jenkins Web Interface: http://107.23.208.215:8080
 7. Enter the initial admin password and follow the setup wizard.
 8. Installed python through the terminal and downloaded and installed the Jenkins plugin "Pipeline Utility Steps"
 9. Run Pipeline:
    -Create a new Jenkins job of type "Pipeline" and linked it to my repository.
    -Jenkins will automatically detect changes and run the pipeline.
 10. Monitor Pipeline:
-    -
-12.  **Bold Text**
+   -An output zip file is being packaged
+   -
+
 #### Header 4
 1. Bullet number
 2. Bullet number
