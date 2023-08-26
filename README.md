@@ -1,26 +1,23 @@
-<p align="center">
-<img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
-</p>
-<h1 align="center">C4_deployment-2<h1> 
+# Header 1
 
-Demonstrate your ability to run a Jenkins build and manually deploy to Elastic Beanstalk.
+## Header 2 
+*italic Text*
+``code block``
 
-- Create a separate GitHub repository for this application 
+## Header 2 
+**Bold Text**
+#### Header 4
+1. Bullet number
+2. Bullet number
+    ##### Header 5
+    - bullet point 
+    - bullet point 
 
-- Download the files from this repository and upload them to your newly created repository 
+## Header 2 
+Text [click here for image](https://github.com/kura-labs-org/Template/blob/main/Images/Screenshot%20(92).png)
 
-- Be sure to follow the deployment instructions from this Repository  
+## System Diagram 
+![image](https://github.com/kura-labs-org/Template/blob/main/Images/26-1.jpeg)
 
-- Document your progress in a .md file in your repository. Also, document any issues you may run into and what you did to fix them.
-  
-- Make sure your documentation includes these sections:
-  - Purpose
-  - Issues
-  - Steps
-  - System Diagram
-  - Optimization (How would make this deployment more efficient)
-
-- Lastly, save your documentation and diagram into your repository. Submit your repository link to the LMS
-
-## Deployment instructions Link:
--  [Link to instructions: https://github.com/kura-labs-org/C4_deployment-2/blob/main/Deployment-instructions.md
+## Header 2  
+For more markdown syntax: https://www.markdownguide.org/cheat-sheet/
