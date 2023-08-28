@@ -103,7 +103,6 @@ None
 
 ## Optimization
 
-
-
-
+Inorder to enhance efficiency, reliability, and security across the deployment pipeline and application, we can consider automating the artifact storage during the software development lifecycle without manual intervention. 
+Additinally we can work on security enhancement by following the principle of least privilege and priortize security by implementing best practices such as encryption of data.
 
