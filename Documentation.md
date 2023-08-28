@@ -75,5 +75,26 @@ By meticulously following these steps, I successfully deployed the application t
 
 
 
+![86C96B3A-D374-4601-851E-DF5EAF66504D_1_201_a](https://github.com/SaraGurungLABS01/Deployment_2/assets/140760966/906490c5-944c-48a1-baca-83f13938aa84)
+
+
+
+
+![431C58EC-DF5F-4B36-B3ED-D786DB15C74D_1_201_a](https://github.com/SaraGurungLABS01/Deployment_2/assets/140760966/f028250d-a5ed-4d0a-a233-2fa60a4c04fb)
+
+
+
+
+
+
+
+
+
 ## System Diagram 
-![image](https://github.com/kura-labs-org/Template/blob/main/Images/26-1.jpeg)
+
+
+
+![Deployment 2](https://github.com/SaraGurungLABS01/Deployment_2/assets/140760966/5d70cce1-03a2-4424-ab16-fd95c1302c80)
+
+
+
