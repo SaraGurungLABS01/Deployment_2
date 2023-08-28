@@ -97,4 +97,13 @@ By meticulously following these steps, I successfully deployed the application t
 ![Deployment 2](https://github.com/SaraGurungLABS01/Deployment_2/assets/140760966/5d70cce1-03a2-4424-ab16-fd95c1302c80)
 
 
+## Issues
+ 
+None
+
+## Optimization
+
+
+
+
 
